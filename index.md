@@ -1,3 +1,12 @@
+---
+layout: default
+title: Home
+nav_order: 1
+description: "Inicio de los temas"
+permalink: /
+---
+
+
 # Inteligencia Artifical
 
 Notas para el exámen de admisión para la maestria en Inteligencia Artificial en la Universidad Veracruzana.
