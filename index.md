@@ -6,10 +6,30 @@ description: "Inicio de los temas"
 permalink: /
 ---
 
+# Introducción
+Estas son notas para el exámen de admisión para la maestria en Inteligencia Artificial en la Universidad Veracruzana.
 
-# Inteligencia Artifical
+## Lista de temas
 
-Notas para el exámen de admisión para la maestria en Inteligencia Artificial en la Universidad Veracruzana.
+- [Programación]()[^1]
+  + [Algoritmos en pseudocódigo]()
+  + [Estructuras  de control]()
+  + [Estructuras de datos: arreglos, registros, pilas, colas, listas ligadas, recursividad, árboles y grafos]()
+  + [Búsquedas en profundidad y amplitud]()
+  + [Algoritmos de Ordenamiento]()
+- [Fundamentos de Probabilidad y Estadística]()[^2]
+  + [Combinatoria]()
+  + [Distribución normal]()
+  + [Estimación de intervalos de confianza]()
+  + [Evaluación de hipótesis]
+  + [Probabilidad marginal, conjunta y condicional]()
+- [Fundamentos e historia de la inteligencia artifical]()[^3]
+  + [La prueba de Turing]()
+  + [Áreas del Conocimiento que proporcionan las bases y el origen]()
+  + [Origen y Génesis de la Inteligencia Artificial]()
+  + [Principios de los sistemas basados en el conocimiento]()
+  + [Principios de las redes neuronales artificiales]()
+
 
 
 
