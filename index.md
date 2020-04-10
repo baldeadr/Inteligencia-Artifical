@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Inicio
 nav_order: 1
 description: "Inicio de los temas"
 permalink: /
