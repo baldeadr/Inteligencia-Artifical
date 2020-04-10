@@ -35,6 +35,6 @@ Estas son notas para el exámen de admisión para la maestria en Inteligencia Ar
 
 ## Bibliografías recomendadas
 
-[^1]: Fundamentos de Programación. Algoritmos y Estructura de Datos; Luis Joyanes Aguilar; Mc. Graw Hill.
+[^1]: [Fundamentos de Programación](https://github.com/baldeadr/Inteligencia-Artifical/raw/master/libros/Fundamentos-de-programaci%C3%B3n-4ta-Edici%C3%B3n-Luis-Joyanes-Aguilar-2.pdf). Algoritmos y Estructura de Datos; Luis Joyanes Aguilar; Mc. Graw Hill.
 [^2]: Introduction to the Practice of Statistic; David S. Moore, George P. McCabe; Ed. Freeman.
-[^3]: Artificial Intelligence: A Modern Approach; Stuart Russell and Peter Norving; Prentice Hall
+[^3]: [Artificial Intelligence: A Modern Approach](https://github.com/baldeadr/Inteligencia-Artifical/raw/master/libros/Inteligencia_artificial_Un_enfoque.pdf); Stuart Russell and Peter Norving; Prentice Hall
