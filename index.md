@@ -3,7 +3,6 @@ layout: default
 title: 🏠 Introducción
 nav_order: 1
 description: "Inicio de los temas"
-#permalink: /
 ---
 
 # Introducción
