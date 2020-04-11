@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fundamentos de Probabilidad y Estadística
+title: 📈 Fundamentos de Probabilidad y Estadística
 nav_order: 3
 ---
 
