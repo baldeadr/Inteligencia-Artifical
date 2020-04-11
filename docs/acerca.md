@@ -14,4 +14,4 @@ La información escrita son partes de libros de texto recomendados por la univer
 ¡Saludos!
 
 
-[Adrián Balderas.](https://github.io){:target="_blank"}
+[Adrián Balderas.](https://baldeadr.github.io){:target="_blank"}
