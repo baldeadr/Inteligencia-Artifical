@@ -18,7 +18,7 @@ El pseudocódigo nació como un lenguaje similar al inglés y era un medio de re
 
 Una represantación en pseudocódigo de un problema de cálculo del salario neto de un trabajador es la siguiente:
 
-<pre><code class="codeblock">
+<pre><code>
 <b>start</b>
 	//cálculo de impuesto y salarios
 	<b>read</b> nombre, horas, precio
@@ -28,6 +28,7 @@ Una represantación en pseudocódigo de un problema de cálculo del salario neto
 	<b>write</b> nombre, salario, tasas, salario
 <b>end</b>
 </code></pre>
+
 El algoritmo comienza con la palabra **start** y finaliza con **end**, en inglés (en español, **inicio**, **fin**).  Entre estas palabras, solo se escribe una instrución o acción por linea.
 
 La linea precedoda por **//** se denomina *comentario*. Es una información al lector del programa y no realiza ninguna instrucción ejecutable, sólo tiene efecto de documentación interna del programa.
@@ -44,13 +45,13 @@ Otro ejemplo aclaratorio en el uso del pseudocódigo prodía ser un sencillo alg
 	pisar de nuevo el acelerador
 	esperar unos instantes a que se caliente el motor
 <b>fin</b>
-</code><pre>
+</code></pre>
 
 ### Diagramas de flujo
 
 Un diagrama de flujo (*flowchart*) es una de las técnicas  de representación de algoritmos más antigua y a la vez mas utilizada, aunque su empleo ha disminuido considerablemente, sobre todo, desde la aparición de lenguajes de programamción estructurados. Un diagramam de flujo es un diagrama que utiliza símbolos (cajas) estándar y que tiene los pasos de algoritmo escritos en esas cajas unidas por flechas, denominadas *líneas de flujo*, que indican la secuenci en que se debe ejecutar.
 
-![Símbolos de diagrama de flujo](/home/baldeadr/GitHub/Inteligencia-Artifical/docs/programacion/1.png)
+![Símbolos de diagrama de flujo](/Inteligencia-Artifical/docs/programacion/img/1.png)
 
 ## Estructuras  de control
 
