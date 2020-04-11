@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Inteligencia Artificial
+title: 🏠 Introducción
 nav_order: 0
-description: "otas propias para el exámen de admisión para la Maestria en Inteligencia Artificial en la Universidad Veracruzana."
+description: "Inicio de los temas"
 #permalink: /
 ---
 
