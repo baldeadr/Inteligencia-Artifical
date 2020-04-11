@@ -35,8 +35,7 @@ La linea precedoda por **//** se denomina *comentario*. Es una información al l
 
 Otro ejemplo aclaratorio en el uso del pseudocódigo prodía ser un sencillo algoritmo del arranque marinl de un coche.
 
-<pre><code>
-<b>inicio</b>
+>**inicio**
 	//arranque matinal de un coche
 	introducir la llave de contacto
 	girar la llave de contacto
@@ -44,8 +43,7 @@ Otro ejemplo aclaratorio en el uso del pseudocódigo prodía ser un sencillo alg
 	oir el ruido del motor
 	pisar de nuevo el acelerador
 	esperar unos instantes a que se caliente el motor
-<b>fin</b>
-</code></pre>
+**fin**
 
 ### Diagramas de flujo
 
