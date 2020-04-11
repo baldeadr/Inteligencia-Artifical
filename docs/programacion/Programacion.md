@@ -19,15 +19,19 @@ El pseudocódigo nació como un lenguaje similar al inglés y era un medio de re
 Una represantación en pseudocódigo de un problema de cálculo del salario neto de un trabajador es la siguiente:
 
 <div class="code-example" markdown="1">
-start
-	//cálculo de impuesto y salarios
-	**read** nombre, horas, precio
-	salario ⬅️ horas * precio
-	tasas ⬅️ 0.25 * salario
-	salario_neto ⬅️ salario - tasas
-	**write** nombre, salario, tasas, salario
-**end**
+**start**
+<br>	//cálculo de impuesto y salarios
+<br>	**read** nombre, horas, precio
+<br>	salario ⬅️ horas * precio
+<br>	tasas ⬅️ 0.25 * salario
+<br>	salario_neto ⬅️ salario - tasas
+<br>	**write** nombre, salario, tasas, salario
+<br>**end**
 </div>
+
+
+
+
 
 El algoritmo comienza con la palabra **start** y finaliza con **end**, en inglés (en español, **inicio**, **fin**).  Entre estas palabras, solo se escribe una instrución o acción por linea.
 
