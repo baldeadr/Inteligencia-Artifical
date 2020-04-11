@@ -12,9 +12,6 @@ aux_links:
   "Fork me on GitHub":
     - "//github.com/baldeadr/Inteligencia-Artifical"
 
-    
-<button class="btn js-toggle-dark-mode">Preview dark color scheme</button>
-<script type="text/javascript" src="{{ "/assets/js/dark-mode-preview.js" | absolute_url }}"></script>
 # Color scheme currently only supports "dark" or nil (default)
 #color_scheme: "dark"
 
