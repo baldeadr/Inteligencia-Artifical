@@ -4,9 +4,11 @@ title: Bibliografias recomendadas
 nav_order: 5
 ---
 # Bibliografias recomendadas
-```
+
+
+<div class="code-example" markdown="1">
 **⚠️ Atención:** El contenido de estos libros es la lectura recomendada para el exámen de admisión para la maestría en Inteligencia Artificial de la Universidad Veracruzana, sin embargo tanto la Universidad como un servidor no nos pertenece la propiedad intelectual de dichos documentos. Se recomienda adquirir una copia original.
-```
+</div>
 
 
 
