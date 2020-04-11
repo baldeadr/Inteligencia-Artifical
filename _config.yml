@@ -7,6 +7,12 @@ description: Notas para el exámen de admisión para la maestria en Inteligencia
 #url: "https://baldeadr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 author: Adrián Daniel Balderas Mijes
 
+# Aux links for the upper right navigation
+aux_links:
+  "Fork me":
+    - "//github.com/baldeadr/Inteligencia-Artifical"
+
+
 # Color scheme currently only supports "dark" or nil (default)
 #color_scheme: "dark"
 
