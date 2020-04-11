@@ -15,14 +15,14 @@ Luis Joyanes Aguilar; Mc. Graw Hill
 ### Algoritmos y Estructura de Datos
 Luis Joyanes Aguilar; Mc. Graw Hill
 
-[👁️ Ver](http://example.com/){: .btn .btn-blue }
+[👁️‍🗨️ Ver](http://example.com/){: .btn .btn-blue }
 [⬇️ Descargar](http://example.com/){: .btn .btn-green }
 
 ## Fundamentos de Probabilidad y Estadística
 ### Introduction to the Practice of Statistic
 David S. Moore, George P. McCabe; Ed. Freeman
 
-[👁️ Ver](http://example.com/){: .btn .btn-blue }
+[👁️‍🗨️ Ver](http://example.com/){: .btn .btn-blue }
 [⬇️ Descargar](http://example.com/){: .btn .btn-green }
 
 
@@ -30,6 +30,6 @@ David S. Moore, George P. McCabe; Ed. Freeman
 ### Artificial Intelligence: A Modern Approach
 Stuart Russell and Peter Norving; Prentice Hall
 
-[👁️ Ver](https://github.com/baldeadr/Inteligencia-Artifical/blob/master/libros/Inteligencia_artificial_Un_enfoque.pdf){: .btn .btn-blue }
+[👁️‍🗨️ Ver](https://github.com/baldeadr/Inteligencia-Artifical/blob/master/libros/Inteligencia_artificial_Un_enfoque.pdf){: .btn .btn-blue }
 [⬇️ Descargar](https://github.com/baldeadr/Inteligencia-Artifical/raw/master/libros/Inteligencia_artificial_Un_enfoque.pdf){: .btn .btn-green }  
 
