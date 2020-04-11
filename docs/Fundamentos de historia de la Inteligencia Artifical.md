@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fundamentos de historia de la Inteligencia Artifical
+title: 🧠 Fundamentos de historia de la Inteligencia Artifical
 nav_order: 4
 ---
 
