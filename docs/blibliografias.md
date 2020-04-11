@@ -9,7 +9,7 @@ nav_order: 5
 ### Fundamentos de Programación
 Luis Joyanes Aguilar; Mc. Graw Hill
 
-[👁️ Ver](https://github.com/baldeadr/Inteligencia-Artifical/blob/master/libros/Fundamentos-de-programaci%C3%B3n-4ta-Edici%C3%B3n-Luis-Joyanes-Aguilar-2.pdf){: .btn .btn-blue }
+[👁️‍🗨️ Ver](https://github.com/baldeadr/Inteligencia-Artifical/blob/master/libros/Fundamentos-de-programaci%C3%B3n-4ta-Edici%C3%B3n-Luis-Joyanes-Aguilar-2.pdf){: .btn .btn-blue }
 [⬇️ Descargar](https://github.com/baldeadr/Inteligencia-Artifical/raw/master/libros/Fundamentos-de-programaci%C3%B3n-4ta-Edici%C3%B3n-Luis-Joyanes-Aguilar-2.pdf){: .btn .btn-green }
 
 ### Algoritmos y Estructura de Datos
