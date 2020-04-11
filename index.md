@@ -1,8 +1,9 @@
 ---
 layout: default
 title: 🏠 Introducción
+name: Inteligencia Artificial
 nav_order: 1
-description: "notas propias para el exámen de admisión para la Maestria en Inteligencia Articicial en la Universidad Veracruzana"
+description: "Notas propias para el exámen de admisión para la Maestria en Inteligencia Articicial en la Universidad Veracruzana"
 ---
 
 # Introducción
