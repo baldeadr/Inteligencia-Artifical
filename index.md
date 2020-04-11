@@ -7,7 +7,7 @@ permalink: /
 ---
 
 # Introducción
-Estas son notas para el exámen de admisión para la maestria en Inteligencia Artificial en la Universidad Veracruzana.
+Estas son notas para el exámen de admisión para la [Maestria en Inteligencia Artificial en la Universidad Veracruzana](https://www.uv.mx/mia/).
 
 ## Lista de temas
 
