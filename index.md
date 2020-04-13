@@ -30,7 +30,7 @@ Estas son notas propias para el exámen de admisión para la [Maestria en Inteli
   + [Principios de los sistemas basados en el conocimiento]()
   + [Principios de las redes neuronales artificiales]()
 
-
+___
 
 
 ## Bibliografías recomendadas

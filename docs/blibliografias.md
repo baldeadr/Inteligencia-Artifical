@@ -22,6 +22,8 @@ Luis Joyanes Aguilar; Mc. Graw Hill
 [👁️‍🗨️ Ver](http://example.com/){: .btn .btn-blue }{:target="_blank"}
 [⬇️ Descargar](http://example.com/){: .btn .btn-green }
 
+___
+
 ## Fundamentos de Probabilidad y Estadística
   + ### Introduction to the Practice of Statistic
 David S. Moore, George P. McCabe; Ed. Freeman
@@ -29,6 +31,7 @@ David S. Moore, George P. McCabe; Ed. Freeman
 [👁️‍🗨️ Ver](http://example.com/){: .btn .btn-blue }{:target="_blank"}
 [⬇️ Descargar](http://example.com/){: .btn .btn-green }
 
+___
 
 ## Fundamentos de historia de la Inteligencia Artifical 
   + ### Artificial Intelligence: A Modern Approach
